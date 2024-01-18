@@ -14,10 +14,7 @@
 
 <details>
 
-<summary>:eyes: Show badges</summary>
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
-![Leetcode Stats](https://leetcard.jacoblin.cool/future-username?theme=dark&font=Anybody&ext=heatmap)
-<!-- <img src="https://leetcard.jacoblin.cool/future-username?theme=dark&font=Anybody&ext=heatmap"> -->
+<summary>:eyes: Show github stats</summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=future-username&show_icons=true&theme=dark">
 
