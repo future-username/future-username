@@ -12,6 +12,7 @@
 <details>
 
 <summary>:eyes: Show badges</summary>
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/future-username?theme=dark&font=Anybody&ext=heatmap)
 <!-- <img src="https://leetcard.jacoblin.cool/future-username?theme=dark&font=Anybody&ext=heatmap"> -->
 
