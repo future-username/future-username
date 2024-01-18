@@ -13,6 +13,8 @@
 
 <summary>:eyes: Show badges</summary>
 
+![]([https://leetcard.jacoblin.cool/leetcode?site=cn](https://leetcard.jacoblin.cool/future-username?theme=dark&font=Anybody))
+
 <img src="https://github-readme-stats.vercel.app/api?username=future-username&show_icons=true&theme=ADD_THEME_HERE" width="400">|
 
 </details>
