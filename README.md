@@ -12,8 +12,8 @@
 <details>
 
 <summary>:eyes: Show badges</summary>
-
-<img src="https://leetcard.jacoblin.cool/future-username?theme=dark&font=Anybody&ext=heatmap">
+![Leetcode Stats](https://leetcard.jacoblin.cool/future-username?theme=dark&font=Anybody&ext=heatmap)
+<!-- <img src="https://leetcard.jacoblin.cool/future-username?theme=dark&font=Anybody&ext=heatmap"> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=future-username&show_icons=true&theme=dark">
 
