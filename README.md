@@ -1,27 +1,52 @@
-## 💻 About Me
-I'm a passionate developer focused on Python and Machine Learning technologies. Welcome to my GitHub profile!
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="Paul — Python Developer · Backend & Machine Learning" />
 
-## 🚀 Languages and Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)
+  <br />
+  <br />
 
-## 🔥 My LeetCode Stats
-[![LeetCode user future-username](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ffuture-username&logo=leetcode&logoColor=yellow)](https://leetcode.com/future-username/)
+  <a href="https://t.me/future_helpdesk"><img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=3fb950" alt="Contact me on Telegram" /></a>
+  <a href="https://leetcode.com/future-username/"><img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=3fb950" alt="My LeetCode profile" /></a>
+  <a href="https://github.com/future-username?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_code-161b22?style=for-the-badge&logo=github&logoColor=3fb950" alt="Explore my repositories" /></a>
+</div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/future-username?theme=dark&font=Anybody&ext=heatmap)
+<br />
 
-## 🌐 Connect With Me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/future_helpdesk)
+## About me
 
-## 📊 GitHub Stats
+I'm Paul, a developer focused on **Python and Machine Learning**. My interests span backend development, Telegram bots, and working with models in the Hugging Face ecosystem.
+
+- **Backend** · APIs with Python and FastAPI.
+- **Bots** · Telegram development with Aiogram.
+- **Machine Learning** · Exploring models and tools with Hugging Face.
+- **Problem solving** · Practicing algorithms on LeetCode.
+
+## Languages & tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3fb950" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=3fb950" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Aiogram-161b22?style=for-the-badge&logo=telegram&logoColor=3fb950" alt="Aiogram" />
+  <img src="https://img.shields.io/badge/Hugging_Face-161b22?style=for-the-badge&logo=huggingface&logoColor=3fb950" alt="Hugging Face" />
+</p>
+
+## Problem solving
+
+<p align="center">
+  <a href="https://leetcode.com/future-username/">
+    <img src="https://leetcard.jacoblin.cool/future-username?theme=dark&font=Anybody&ext=heatmap" alt="Paul's LeetCode statistics and activity heatmap" />
+  </a>
+</p>
 
 <details>
-<summary>👀 Show GitHub stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=future-username&show_icons=true&theme=dark">
+  <summary>GitHub statistics</summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=future-username&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" alt="Paul's GitHub statistics" />
+  </p>
 </details>
 
 ---
 
-⭐️ From [future-username](https://github.com/future-username)
+<p align="center">
+  Have a project in mind? <a href="https://t.me/future_helpdesk">Let's talk on Telegram.</a>
+</p>
