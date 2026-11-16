@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
     paths:
-      - ".github/workflows/snake.yml"
+      - ".github/workflows/blank.yml"
 
 permissions:
   contents: write
