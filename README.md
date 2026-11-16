@@ -29,6 +29,18 @@ I'm Paul, a developer focused on **Python and Machine Learning**. My interests s
   <img src="https://img.shields.io/badge/Hugging_Face-161b22?style=for-the-badge&logo=huggingface&logoColor=3fb950" alt="Hugging Face" />
 </p>
 
+## A year in contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/future-username/future-username/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/future-username/future-username/output/github-snake.svg" />
+    <img alt="A green snake moving through my GitHub contribution graph" src="https://raw.githubusercontent.com/future-username/future-username/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center"><sub>My GitHub contributions, one bite at a time · Updated daily</sub></p>
+
 ## Problem solving
 
 <p align="center">
